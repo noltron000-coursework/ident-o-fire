@@ -38,26 +38,36 @@ Fill this out up to at least thursday with your initial plan.
 
 ### Monday (Day 1)
 - submit this proposal @4:00pm in the *Great Hall*
-- 
-- 
+- work on prerequisite projects to refresh skills in jupyter notebooks:
+	- linear regression: boston housing prices
+	- logistic regression: diabetes dataset
  
 ### Tuesday (Day 2)
-- 
-- 
-- 
+- outline necessary technologies
+	- machine learning vs. deep learning
+	- convolutional nueral networks
+	- recurrent nueral networks
+	- multi-layer perceptrons
+- write pseudocode
+- write markdown / readme
 
 ### Wednesday (Day 3)
-- 
-- 
-- 
+- coding all day
+- MVP shipped &amp; ready
 
 ### Thursday (Day 4)
-- 
-- 
-- 
+- fix bugs &amp; more coding
+- polish readme
+- create presentation
+- practice pitching
 
 ### Friday (Day 5)
-- Pitch App
+- last-minute polish
+- pitch app
+- post on reddit
+
+### Saturday and Beyond (???)
+- write medium article
 
 ## Checkoff for approval
 - [x] If I have a team project, I wrote this proposal to represent **my work** and **only my work**
