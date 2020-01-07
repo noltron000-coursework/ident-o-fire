@@ -1,3 +1,9 @@
+# 🔥 Fire...or No Fire?
+This app scans through a series of images which are tagged as either "fire" or "no fire".
+Once done, the app can take in an image, and tell you whether it has fire in it or not.
+
+All of this is done through Nueral Networks!
+
 ## Setup
 1. copy and run these commands in terminal to set up the submodule:
 	```bash
