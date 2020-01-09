@@ -18,6 +18,13 @@ All of this is done through Nueral Networks!
 1. extract each `.rar` file in the submodule
 	- ensure that the directory structure is formatted in this way: `./data/*/*.jpg`
 
+## Jupyter Slides
+You can run the app as a slide-show using the following commands in terminal:
+1. copy and run these commands in terminal to set up the submodule:
+	```
+	jupyter nbconvert image_data_prep.ipynb --to slides --post serve
+	```
+
 ## Pseudocode
 ![whiteboard code][whiteboard]
 
