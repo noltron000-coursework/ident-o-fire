@@ -48,5 +48,6 @@ You can run the notebook as a slide-show using the following commands in termina
 	```
 	jupyter nbconvert image_data_prep.ipynb --to slides --post serve
 	```
+
 [Files]: https://github.com/noltron000/fire-data/blob/master/fire_image_classification.py
-[Slides]: https://docs.google.com/presentation/d/1uY8cokZ4nUqoJmNRkWXFD0RDhwb9IgcwDOxFQAVybtM/edit#slide=id.g6d71e4cbe1_0_236
+[Slides]: https://github.com/noltron000/fire-data/blob/master/image_data_prep.ipynb
