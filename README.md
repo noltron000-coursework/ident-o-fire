@@ -39,6 +39,7 @@ Furthermore, everything is well-outlined to help even newbies understand the dat
 	- ensure that the directory structure is formatted in this way: `./data/*/*.jpg`
 1. run `jupyter notebook` in your project to begin the notebook
 
+## [Check it out in The Browser][Files]
 ## [Google Slide Deck][Slides]
 ## Jupyter Slides
 You can run the notebook as a slide-show using the following commands in terminal:
@@ -47,5 +48,5 @@ You can run the notebook as a slide-show using the following commands in termina
 	```
 	jupyter nbconvert image_data_prep.ipynb --to slides --post serve
 	```
-
+[Files]: https://github.com/noltron000/fire-data/blob/master/fire_image_classification.py
 [Slides]: https://docs.google.com/presentation/d/1uY8cokZ4nUqoJmNRkWXFD0RDhwb9IgcwDOxFQAVybtM/edit#slide=id.g6d71e4cbe1_0_236
