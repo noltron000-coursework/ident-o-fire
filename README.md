@@ -50,4 +50,4 @@ You can run the notebook as a slide-show using the following commands in termina
 	```
 
 [Files]: https://github.com/noltron000/fire-data/blob/master/fire_image_classification.py
-[Slides]: https://github.com/noltron000/fire-data/blob/master/image_data_prep.ipynb
+[Slides]: https://docs.google.com/presentation/d/1uY8cokZ4nUqoJmNRkWXFD0RDhwb9IgcwDOxFQAVybtM/edit#slide=id.g6d71e4cbe1_0_236
