@@ -11,7 +11,6 @@ Hopefull, the only thing you need to understand the notebook is some knowledge w
 ### Contains Visual Aids
 Wherever possible, the notebook utilizes visual aids.
 Many of the visuals are pulled down from the internet using various resources.
-Some of these aids are hand-drawn by [@noltron000][https://github.com/noltron000] personally.
 
 ### Uses Several Technologies
 Technologies Used:
